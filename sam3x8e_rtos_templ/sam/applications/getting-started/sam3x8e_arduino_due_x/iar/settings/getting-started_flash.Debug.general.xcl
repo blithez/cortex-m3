@@ -1,0 +1,17 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"E:\cortex-m3\sam3x8e_rtos_templ\sam\applications\getting-started\sam3x8e_arduino_due_x\iar\Debug\Exe\getting-started_flash.out" 
+
+--plugin "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\Atmel\SAM3XA.dmac" 
+
+--macro "E:\cortex-m3\sam3x8e_rtos_templ\sam\applications\getting-started\sam3x8e_arduino_due_x\iar\../../../../boards/arduino_due_x/debug_scripts/iar/arduino_due_x_flash.mac" 
+
+--flash_loader "D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\flashloader\Atmel\sam3x8e\sam3x8e-flash.board" 
+
+
+
+
